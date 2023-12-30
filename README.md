@@ -1,5 +1,7 @@
 # LinkSelFiE: Link Selection and Fidelity Estimation in Quantum Networks
 
+[![DOI](https://zenodo.org/badge/737247284.svg)](https://zenodo.org/doi/10.5281/zenodo.10444443)
+
 This repository contains the source code for reproducing the results of our INFOCOM'24 paper titled *LinkSelFiE: Link Selection and Fidelity Estimation in Quantum Networks*.
 
 ## Prerequisites
